@@ -4,6 +4,9 @@ Official Documentation:
     http://freenos.org/ 
     http://www.freenos.org/doxygen/index-2.html
 
+Host Support:
+    Does not compile on MacOSX, details see http://www.freenos.org/status.html    
+
 Specifying Python version for SCons
     /usr/bin/python2.7 /usr/local/bin/scons [what_to_run]
 
