@@ -1,3 +1,16 @@
+## YuhZheng's Personal Note:
+
+#### Official Documentation: 
+http://freenos.org/ 
+http://www.freenos.org/doxygen/index-2.html
+
+#### Specifying Python version for SCons
+```
+/usr/bin/python2.7 /usr/local/bin/scons [what_to_run]
+```
+
+=========================================
+
 Free Niek's Operating System.
 
 Authors:
