@@ -1,13 +1,11 @@
-## YuhZheng's Personal Note:
+YuhZheng's Personal Note:
 
-#### Official Documentation: 
-http://freenos.org/ 
-http://www.freenos.org/doxygen/index-2.html
+Official Documentation: 
+    http://freenos.org/ 
+    http://www.freenos.org/doxygen/index-2.html
 
-#### Specifying Python version for SCons
-```
-/usr/bin/python2.7 /usr/local/bin/scons [what_to_run]
-```
+Specifying Python version for SCons
+    /usr/bin/python2.7 /usr/local/bin/scons [what_to_run]
 
 =========================================
 
